@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8247,
+          42.733
+        ]
+      },
+      "properties": {
+        "id": "TESLA_001",
+        "name": "Tesla Supercharger - Walden Galleria",
+        "address": "1 Walden Galleria",
+        "city": "Buffalo",
+        "postcode": "14206",
+        "connectors": 8,
+        "connector_type": "Tesla/NACS",
+        "power_kw": 250.0,
+        "network": "Tesla Supercharger",
+        "operational": true,
+        "restricted": false,
+        "cost": "Pay-per-use"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7331,
+          42.9371
+        ]
+      },
+      "properties": {
+        "id": "CP_001",
+        "name": "ChargePoint - NFTA Buffalo-Niagara Int'l",
+        "address": "4200 Genesee Street",
+        "city": "Buffalo",
+        "postcode": "14225",
+        "connectors": 4,
+        "connector_type": "Level 2",
+        "power_kw": 7.2,
+        "network": "ChargePoint",
+        "operational": true,
+        "restricted": false,
+        "cost": "Membership/Pay-per-use"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8784,
+          42.8864
+        ]
+      },
+      "properties": {
+        "id": "EA_001",
+        "name": "Electrify America - Buffalo Downtown",
+        "address": "Main Street",
+        "city": "Buffalo",
+        "postcode": "14202",
+        "connectors": 6,
+        "connector_type": "CCS/Tesla",
+        "power_kw": 150.0,
+        "network": "Electrify America",
+        "operational": true,
+        "restricted": false,
+        "cost": "App-based"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8775,
+          42.8886
+        ]
+      },
+      "properties": {
+        "id": "EVGO_001",
+        "name": "EVgo - Buffalo University",
+        "address": "University at Buffalo Campus",
+        "city": "Buffalo",
+        "postcode": "14260",
+        "connectors": 4,
+        "connector_type": "CCS",
+        "power_kw": 50.0,
+        "network": "EVgo",
+        "operational": true,
+        "restricted": true,
+        "cost": "Campus parking pass"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8459,
+          42.7951
+        ]
+      },
+      "properties": {
+        "id": "CP_002",
+        "name": "ChargePoint - Northtowns Plaza",
+        "address": "Northtowns Plaza, North Tonawanda",
+        "city": "North Tonawanda",
+        "postcode": "14120",
+        "connectors": 2,
+        "connector_type": "Level 2",
+        "power_kw": 7.2,
+        "network": "ChargePoint",
+        "operational": true,
+        "restricted": false,
+        "cost": "Membership"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0849,
+          43.0896
+        ]
+      },
+      "properties": {
+        "id": "TESLA_002",
+        "name": "Tesla Supercharger - Niagara Falls",
+        "address": "6969 Stanley Avenue",
+        "city": "Niagara Falls",
+        "postcode": "L2G 7H6",
+        "connectors": 8,
+        "connector_type": "Tesla/NACS",
+        "power_kw": 250.0,
+        "network": "Tesla Supercharger",
+        "operational": true,
+        "restricted": false,
+        "cost": "Pay-per-use"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8756,
+          42.8867
+        ]
+      },
+      "properties": {
+        "id": "MH_001",
+        "name": "Mercy Hospital EV Charging",
+        "address": "462 Grider Street",
+        "city": "Buffalo",
+        "postcode": "14215",
+        "connectors": 3,
+        "connector_type": "Level 2",
+        "power_kw": 7.2,
+        "network": "Private",
+        "operational": true,
+        "restricted": true,
+        "cost": "Hospital parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.882,
+          42.89
+        ]
+      },
+      "properties": {
+        "id": "EA_002",
+        "name": "Electrify America - West Ferry Station",
+        "address": "West Ferry Street",
+        "city": "Buffalo",
+        "postcode": "14202",
+        "connectors": 4,
+        "connector_type": "CCS",
+        "power_kw": 150.0,
+        "network": "Electrify America",
+        "operational": true,
+        "restricted": false,
+        "cost": "App-based"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7862,
+          42.9065
+        ]
+      },
+      "properties": {
+        "id": "CP_003",
+        "name": "ChargePoint - UB North Campus",
+        "address": "UB North Campus Lot",
+        "city": "Buffalo",
+        "postcode": "14260",
+        "connectors": 6,
+        "connector_type": "Level 2",
+        "power_kw": 7.2,
+        "network": "ChargePoint",
+        "operational": true,
+        "restricted": true,
+        "cost": "Campus parking"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8709,
+          42.8822
+        ]
+      },
+      "properties": {
+        "id": "CANALSIDE_001",
+        "name": "Buffalo Canalside EV Charging",
+        "address": "Canalside Drive",
+        "city": "Buffalo",
+        "postcode": "14202",
+        "connectors": 4,
+        "connector_type": "Level 2",
+        "power_kw": 7.2,
+        "network": "Public",
+        "operational": true,
+        "restricted": false,
+        "cost": "Pay-per-use"
+      }
+    }
+  ]
+}

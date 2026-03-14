@@ -1,0 +1,11 @@
+id,name,latitude,longitude,address,city,postcode,connector_count,connector_type,power_kw,is_operational,access_restricted,usage_cost,network
+TESLA_001,Tesla Supercharger - Walden Galleria,42.733,-78.8247,1 Walden Galleria,Buffalo,14206,8,Tesla/NACS,250.0,True,False,Pay-per-use,Tesla Supercharger
+CP_001,ChargePoint - NFTA Buffalo-Niagara Int'l,42.9371,-78.7331,4200 Genesee Street,Buffalo,14225,4,Level 2,7.2,True,False,Membership/Pay-per-use,ChargePoint
+EA_001,Electrify America - Buffalo Downtown,42.8864,-78.8784,Main Street,Buffalo,14202,6,CCS/Tesla,150.0,True,False,App-based,Electrify America
+EVGO_001,EVgo - Buffalo University,42.8886,-78.8775,University at Buffalo Campus,Buffalo,14260,4,CCS,50.0,True,True,Campus parking pass,EVgo
+CP_002,ChargePoint - Northtowns Plaza,42.7951,-78.8459,"Northtowns Plaza, North Tonawanda",North Tonawanda,14120,2,Level 2,7.2,True,False,Membership,ChargePoint
+TESLA_002,Tesla Supercharger - Niagara Falls,43.0896,-79.0849,6969 Stanley Avenue,Niagara Falls,L2G 7H6,8,Tesla/NACS,250.0,True,False,Pay-per-use,Tesla Supercharger
+MH_001,Mercy Hospital EV Charging,42.8867,-78.8756,462 Grider Street,Buffalo,14215,3,Level 2,7.2,True,True,Hospital parking,Private
+EA_002,Electrify America - West Ferry Station,42.89,-78.882,West Ferry Street,Buffalo,14202,4,CCS,150.0,True,False,App-based,Electrify America
+CP_003,ChargePoint - UB North Campus,42.9065,-78.7862,UB North Campus Lot,Buffalo,14260,6,Level 2,7.2,True,True,Campus parking,ChargePoint
+CANALSIDE_001,Buffalo Canalside EV Charging,42.8822,-78.8709,Canalside Drive,Buffalo,14202,4,Level 2,7.2,True,False,Pay-per-use,Public

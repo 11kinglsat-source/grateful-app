@@ -1,0 +1,173 @@
+BUFFALO EV CHARGING INFRASTRUCTURE - ANALYSIS REPORT
+Generated: March 2026
+============================================================
+
+
+============================================================
+COVERAGE ANALYSIS
+============================================================
+
+Coverage by Network:
+
+  Tesla Supercharger:
+    Stations: 2
+    Total connectors: 16
+    Avg power (kW): 250.0
+    Public access: 2/2
+
+  ChargePoint:
+    Stations: 3
+    Total connectors: 12
+    Avg power (kW): 7.2
+    Public access: 2/3
+
+  Electrify America:
+    Stations: 2
+    Total connectors: 10
+    Avg power (kW): 150.0
+    Public access: 2/2
+
+  EVgo:
+    Stations: 1
+    Total connectors: 4
+    Avg power (kW): 50.0
+    Public access: 0/1
+
+  Private:
+    Stations: 1
+    Total connectors: 3
+    Avg power (kW): 7.2
+    Public access: 0/1
+
+  Public:
+    Stations: 1
+    Total connectors: 4
+    Avg power (kW): 7.2
+    Public access: 1/1
+
+Public Access Summary:
+  Public stations: 7/10 (70%)
+  Restricted: 3/10 (30%)
+
+Charging Speed Distribution:
+  DC Fast (≥50kW): 5 stations
+  Level 2 (<50kW): 5 stations
+  Avg power: 88.6kW
+
+============================================================
+GEOGRAPHIC DISTRIBUTION
+============================================================
+
+Stations by City:
+  Buffalo               8 stations ( 80.0%)
+  North Tonawanda       1 stations ( 10.0%)
+  Niagara Falls         1 stations ( 10.0%)
+
+Geographic Extent:
+  Latitude:  42.7330 to 43.0896 (0.3566° span)
+  Longitude: -79.0849 to -78.7331 (0.3518° span)
+  Center: (42.9113, -78.9090)
+
+============================================================
+DENSITY ANALYSIS (radius: 2km)
+============================================================
+
+HIGH Density (3+ stations within 2km):
+  Electrify America - Buffalo Downtown     (5 nearby)
+  EVgo - Buffalo University                (5 nearby)
+  Mercy Hospital EV Charging               (5 nearby)
+  Electrify America - West Ferry Station   (5 nearby)
+  Buffalo Canalside EV Charging            (5 nearby)
+
+MEDIUM Density (2 stations within 2km):
+
+LOW Density (1 station within 2km):
+  Tesla Supercharger - Walden Galleria     (1 nearby)
+  ChargePoint - NFTA Buffalo-Niagara Int'l (1 nearby)
+  ChargePoint - Northtowns Plaza           (1 nearby)
+  Tesla Supercharger - Niagara Falls       (1 nearby)
+  ChargePoint - UB North Campus            (1 nearby)
+
+============================================================
+CONNECTOR TYPE ANALYSIS
+============================================================
+
+Total Connectors Available: 49
+
+Connector Types:
+  Level 2               5 stations ( 50.0%)
+  Tesla/NACS            2 stations ( 20.0%)
+  CCS                   2 stations ( 20.0%)
+  CCS/Tesla             1 stations ( 10.0%)
+
+Connector Interoperability Issues:
+  ✓ Tesla/NACS: Supercharger network (expanding)
+  ✓ CCS: Industry standard (growing)
+  ✗ Level 2: Different connectors, not interoperable
+
+  Recommendation: Standardize on CCS/Tesla compatibility
+
+============================================================
+PROXIMITY ANALYSIS
+============================================================
+
+Nearest competing station (distance):
+  Tesla Supercharger - Walden Galleria     → 7.12km to ChargePoint - Northtowns Plaza
+  ChargePoint - NFTA Buffalo-Niagara Int'l → 5.5km to ChargePoint - UB North Campus
+  Electrify America - Buffalo Downtown     → 0.23km to Mercy Hospital EV Charging
+  EVgo - Buffalo University                → 0.26km to Electrify America - Buffalo Do
+  ChargePoint - Northtowns Plaza           → 7.12km to Tesla Supercharger - Walden Ga
+  Tesla Supercharger - Niagara Falls       → 27.66km to Electrify America - West Ferry
+  Mercy Hospital EV Charging               → 0.23km to Electrify America - Buffalo Do
+  Electrify America - West Ferry Station   → 0.4km to EVgo - Buffalo University
+  ChargePoint - UB North Campus            → 5.5km to ChargePoint - NFTA Buffalo-Nia
+  Buffalo Canalside EV Charging            → 0.63km to Mercy Hospital EV Charging
+
+============================================================
+EXPANSION RECOMMENDATIONS
+============================================================
+
+============================================================
+DENSITY ANALYSIS (radius: 3km)
+============================================================
+
+HIGH Density (3+ stations within 3km):
+  Electrify America - Buffalo Downtown     (5 nearby)
+  EVgo - Buffalo University                (5 nearby)
+  Mercy Hospital EV Charging               (5 nearby)
+  Electrify America - West Ferry Station   (5 nearby)
+  Buffalo Canalside EV Charging            (5 nearby)
+
+MEDIUM Density (2 stations within 3km):
+
+LOW Density (1 station within 3km):
+  Tesla Supercharger - Walden Galleria     (1 nearby)
+  ChargePoint - NFTA Buffalo-Niagara Int'l (1 nearby)
+  ChargePoint - Northtowns Plaza           (1 nearby)
+  Tesla Supercharger - Niagara Falls       (1 nearby)
+  ChargePoint - UB North Campus            (1 nearby)
+
+Underserved Areas (expansion opportunities):
+  • Tesla Supercharger - Walden Galleria
+    Coordinates: (42.7330, -78.8247)
+    Current isolation: Only 1 station(s) within 3km
+  • ChargePoint - NFTA Buffalo-Niagara Int'l
+    Coordinates: (42.9371, -78.7331)
+    Current isolation: Only 1 station(s) within 3km
+  • ChargePoint - Northtowns Plaza
+    Coordinates: (42.7951, -78.8459)
+    Current isolation: Only 1 station(s) within 3km
+  • Tesla Supercharger - Niagara Falls
+    Coordinates: (43.0896, -79.0849)
+    Current isolation: Only 1 station(s) within 3km
+  • ChargePoint - UB North Campus
+    Coordinates: (42.9065, -78.7862)
+    Current isolation: Only 1 station(s) within 3km
+
+Priority: Add DC Fast Charging
+  Currently: 5 DC fast stations
+  Needed: More coverage in underserved neighborhoods
+
+Access Equity Issue:
+  3 restricted stations (30%)
+  Recommendation: Increase public charging infrastructure
